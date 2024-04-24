@@ -1,5 +1,4 @@
-import link from "next/link";
-import head from "next/head";
+
 
 export default function Home() {
   return (
