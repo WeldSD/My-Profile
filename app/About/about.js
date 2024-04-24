@@ -1,5 +1,5 @@
-import Head from 'next/head';
-import Link from 'next/link';
+
+import Link from 'link';
 
 export default function About() {
   return (
@@ -13,7 +13,7 @@ export default function About() {
         <p className="mt-4 text-xl">
           I am a web developer studying at SAIT. I love creating beautiful and functional websites. Here you can learn more about my projects and professional background.
         </p>
-        <Link href="/">
+        <Link href="/page">
           <a className="mt-6 px-4 py-2 bg-blue-500 hover:bg-blue-700 rounded-md text-white">Go Back to Home</a>
         </Link>
       </div>

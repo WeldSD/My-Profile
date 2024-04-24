@@ -9,7 +9,7 @@ function About() {
       <p className="mt-3 text-lg text-gray-300">
         I am a web developer studying at SAIT. I love creating beautiful and functional websites.
       </p>
-      <Link href="/">
+      <Link href="/page">
         <a className="mt-4 text-blue-500">
           Go back to Home
         </a>
